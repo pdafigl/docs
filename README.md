@@ -1,2 +1,3 @@
 # docs
-Diferentes how-tos 
+Diferentes how-tos recopilados de instalaciones y configuraciones.
+
