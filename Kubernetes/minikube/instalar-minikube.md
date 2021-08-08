@@ -35,3 +35,16 @@ Podemos comprobar que está instalado correctamente con el siguiente comando:
 kubectl version --client
 ```
 
+## Instalación de Minikube
+
+
+
+- Para arrancar el servicio y mapear el servicio de API en la IP de la máquina, se lanzará como:
+
+```bash
+minikube start --apiserver-ips=xxx.xxx.xxx.xxx
+```
+## Configurar kubeconfig para gestión remota
+
+https://dzone.com/articles/access-minikube-using-kubectl-from-remote-machine
+
