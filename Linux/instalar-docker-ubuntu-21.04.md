@@ -34,3 +34,10 @@ echo \
 sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io
  ```
+
+ 5. Por último, para permitir que usuarios distintos al usuario root, puedan lanzar comandos docker, se debe asignar al grupo **docker** a todos los usuarios que queramos permitir lanzar este tipo de comandos:
+
+ ```bash
+ sudo usermod -aG docker usuario
+ ```
+ Tras este cambio, si el usuarios tiene sesión abierta, debe cerrarla y volver a conectarse para aplicar los cambios en su configuración de grupos.
