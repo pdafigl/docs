@@ -24,4 +24,4 @@ sudo apt -y install mdatp
 
 Si lanzamos el comando mdatp podemos ver el menú completo de opciones que nos ofrece este anti-virus en Linux.
 
-[mdatp](images/mdatp.png)
+![mdatp](images/mdatp.png)
