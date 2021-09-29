@@ -32,4 +32,4 @@ Y lanzamos el seiguiente comando para ver el listado de operativos compatibles:
 ```bash
 osinfo-query os
 ```
-
+La instalación incluye al usuario con el que se lanza, en el grupo de libvirt, para que tenga permisos de acceso al proceso de libvirt a través de clientes, para poder crear y gestionar máquinas virtuales. Para que aplique este cambio y poder empezar a trabajar con KVm, es necesario cerrar sesión y volver a logarse.
