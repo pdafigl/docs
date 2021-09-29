@@ -28,7 +28,7 @@ sudo systemctl enable --now libvirtd
 ```bash
 sudo apt install libosinfo-bin
 ```
-Y lanzamos el seiguiente comando para ver el listado de operativos compatibles:
+Y lanzamos el siguiente comando para ver el listado de operativos compatibles:
 ```bash
 osinfo-query os
 ```
