@@ -6,5 +6,5 @@
         - Contenido: pasos necesarios para instalar Kubectl en Ubuntu 21.04.
     - [instalar_windows_defender.md](https://github.com/pdafigl/docs/blob/3c73e5eedab11e892033a2db179c53394ba3ab90/Linux/Ubuntu_21.04/instalar_windows_defender.md)
         - Contenido: pasos necesarios para instalar Windows Defender en Ubuntu 21.04.
-    - [instalar_kvm_ubuntu.md](Linux/Ubuntu_21.04/instalar_kvm_ubuntu.md)
+    - [instalar_kvm_ubuntu.md](https://github.com/pdafigl/docs/blob/main/Linux/Ubuntu_21.04/instalar_kvm_ubuntu.md)
         - Contenido: pasos necesarios para instalar KVM y virt-manager en Ubuntu 21.04
