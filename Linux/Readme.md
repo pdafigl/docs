@@ -9,5 +9,7 @@
     - [instalar_kvm_ubuntu.md](https://github.com/pdafigl/docs/blob/main/Linux/Ubuntu_21.04/instalar_kvm_ubuntu.md)
         - Contenido: pasos necesarios para instalar KVM y virt-manager en Ubuntu 21.04
 - Ubuntu_Server_21.10:
-    - [instalar_docker_ubuntu_server.md](https://github.com/pdafigl/docs/blob/main/Linux/Ubuntu_server_21.04/instalar_docker_ubuntu_server.md)
-    - [usar_neofetch_ssh_banner.md](https://github.com/pdafigl/docs/blob/main/Linux/Ubuntu_server_21.04/usar_neofetch_ssh_banner.md)
+    - [instalar_docker_ubuntu_server.md](https://github.com/pdafigl/docs/blob/main/Linux/Ubuntu_server_21.10/instalar_docker_ubuntu_server.md)
+        - Contenido: pasos necesarios para instalar Docker CE en Ubuntu Server 21.10.
+    - [usar_neofetch_ssh_banner.md](https://github.com/pdafigl/docs/blob/main/Linux/Ubuntu_server_21.10/usar_neofecth_ssh_banner.md)
+        - Contenido: cómo instalar neofetch e incluirlo dentro de la información a mostrar al acceder a través de una conexión SSH a la máquina.
