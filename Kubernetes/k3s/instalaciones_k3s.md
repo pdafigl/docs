@@ -11,6 +11,8 @@ Para la instalación de K3S en single mode, basta con lanzar el siguiente comand
 ```bash
 curl -sfL https://get.k3s.io | sh 
 ```
+Para obtener el archivo a utilziar como KUBECONFIG para conectar clientes a esta instalación de K3S, se debe coger el archivo **/etc/rancher/k3s**, y se debe modificar la IP que se incluye (127.0.0.1) por la IP de la máquina.
+
 
 ## Instalación de Longhorn
 Para poder utilizar Longhorn, es necesario que en la máquina esté instalado el paquete de **open-iscsi**. Estas librerías permiten a Longhorn trabajar con los discos conectados a la máquina. Para instalarlo, si no está ya montado en la máquina, basta con lanzar lo siguiente como root:
